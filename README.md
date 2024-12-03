@@ -6,6 +6,7 @@ Everything is hardcoded. Works for me.
 Backup in case I get pegged.
 
 Used:<br>
+pywal for theming based on wallpaper<br>
 waybar - statusbar<br>
 neovim -text editor<br>
 kitty - terminal<br>
