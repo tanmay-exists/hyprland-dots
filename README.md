@@ -1,4 +1,4 @@
-# 🖥️ **My Hyprland Dotfiles**
+# **My Hyprland Dotfiles**
 
 Welcome to my personal **Hyprland configurations** repository!  
 These are my custom settings and configs, designed to fit my workflow.  
@@ -7,7 +7,7 @@ Keeping them here as a backup, just in case I lose my way.
 
 ---
 
-## 🛠️ **Technologies & Tools Used**
+## **Tools**
 
 This configuration utilizes the following tools to enhance my Hyprland environment:
 
@@ -22,7 +22,7 @@ This configuration utilizes the following tools to enhance my Hyprland environme
 
 ---
 
-## 📸 **Screenshot**
+## **Screenshot**
 
 Here’s a screenshot showcasing the layout & functionality of my setup:
 
