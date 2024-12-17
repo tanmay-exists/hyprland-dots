@@ -11,14 +11,14 @@ Keeping them here as a backup, just in case I lose my way.
 
 This configuration utilizes the following tools to enhance my Hyprland environment:
 
-- **pywal** - For dynamic theming based on wallpapers 🎨.  
-- **waybar** - A highly customizable status bar 📊.  
-- **neovim** - My go-to text editor 💻.  
-- **kitty** - A fast, modern terminal emulator 🖥️.  
-- **wofi** - Application launcher & power menu 🖱️.  
-- **hyprshot** - For capturing quick screenshots 📷.  
-- **hyprpaper** - Automatically set wallpapers 🌅.  
-- **hyprlock** - A slick and simple lockscreen 🔒.
+- **pywal** - For dynamic theming based on wallpapers.  
+- **waybar** - A highly customizable status bar.  
+- **neovim** - My go-to text editor.  
+- **kitty** - A fast, modern terminal emulator.  
+- **wofi** - Application launcher & power menu.  
+- **hyprshot** - For capturing quick screenshots.  
+- **hyprpaper** - Automatically set wallpapers.  
+- **hyprlock** - A slick and simple lockscreen.
 
 ---
 
