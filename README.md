@@ -13,7 +13,7 @@ This configuration utilizes the following tools to enhance my Hyprland environme
 
 - **pywal** - For dynamic theming based on wallpapers.  
 - **waybar** - A highly customizable status bar.  
-- **neovim** - My go-to text editor.  
+- **neovim** - My go-to text editor. Using lazyvim as a distro.  
 - **kitty** - A fast, modern terminal emulator.  
 - **wofi** - Application launcher & power menu.  
 - **hyprshot** - For capturing quick screenshots.  
