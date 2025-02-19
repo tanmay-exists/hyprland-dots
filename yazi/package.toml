@@ -1,0 +1,12 @@
+[plugin]
+deps = []
+
+[[flavor.deps]]
+use = "marcosvnmelo/kanagawa-dragon"
+rev = "2ddff30"
+hash = "c9e9fcf6b11c9fe63d4ac7c9408f628c"
+
+[[flavor.deps]]
+use = "kmlupreti/ayu-dark"
+rev = "5412a78"
+hash = "60690920e8c0f9f81ff02009de5d156f"
