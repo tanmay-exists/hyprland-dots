@@ -19,6 +19,7 @@ This configuration utilizes the following tools to enhance my Hyprland environme
 - **hyprshot** - For capturing quick screenshots.  
 - **hyprpaper** - Automatically set wallpapers.  
 - **hyprlock** - A slick and simple lockscreen.
+- **yazi** - A tui file manager that works blazing fast.
 
 ---
 
