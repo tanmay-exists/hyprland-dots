@@ -18,8 +18,9 @@ This configuration utilizes the following tools to enhance my Hyprland environme
 - **wofi** - Application launcher, power menu, and wifi menu.  
 - **hyprshot** - For capturing quick screenshots.  
 - **hyprpaper** - Automatically set wallpapers.  
-- **hyprlock** - A slick and simple lockscreen.
+- **hyprlock** - A slick and simple looking lockscreen.
 - **yazi** - A tui file manager that works blazing fast.
+- **clipse** - A tui clipboard manager.
 
 ---
 
