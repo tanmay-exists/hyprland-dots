@@ -9,12 +9,12 @@ window {
   font-size: 14px;
   font-family: "JetBrains Mono";
   background-color: @background;
-  border-radius: 10px;
+  border-radius: 15px;
   opacity: 1;
 }
 
 #outer-box {
-  margin: 10px 10px 20px 10px;
+  margin: 15px 10px 20px 10px;
   background-color: @background;
   opacity: 0.90;
 }
@@ -25,7 +25,7 @@ window {
 }
 
 #inner-box {
-  margin: 10px;
+  margin: 15px;
   background-color: @background;
   opacity: 0.90;
 }
@@ -33,7 +33,7 @@ window {
 #entry {
   padding: 5px 10px;
   border-radius: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 #entry #text {
