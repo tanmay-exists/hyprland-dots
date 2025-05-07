@@ -15,7 +15,7 @@ This configuration utilizes the following tools to enhance my Hyprland environme
 - **waybar** - A highly customizable status bar.  
 - **neovim** - My go-to text editor. Using lazyvim as a distro.  
 - **kitty** - A fast, modern terminal emulator.  
-- **wofi** - Application launcher, power menu, and wifi menu.  
+- **wofi** - Application launcher, power menu,bluetooth menu, and wifi menu.  
 - **hyprshot** - For capturing quick screenshots.  
 - **hyprpaper** - Automatically set wallpapers.  
 - **hyprlock** - A slick and simple looking lockscreen.
