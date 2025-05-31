@@ -2,7 +2,7 @@
 
 Welcome to my personal **Hyprland configurations** repository!  
 These are my custom settings and configs, designed to fit my workflow.  
-**Disclaimer:** I'm still learning 😭. These are *hardcoded* settings that work for me.  
+**Disclaimer:** I'm still learning. These are *hardcoded* settings that work for me.  
 Keeping them here as a backup, just in case I lose my way.
 
 ---
